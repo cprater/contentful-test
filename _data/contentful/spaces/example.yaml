@@ -1,0 +1,18 @@
+---
+caseStudy:
+- sys:
+    id: 3dHtg6PJ0QCcS40iaMo8gC
+    created_at: !ruby/object:DateTime 2018-08-07 23:29:33.385000000 Z
+    updated_at: !ruby/object:DateTime 2018-08-07 23:29:33.385000000 Z
+    content_type_id: caseStudy
+    revision: 1
+  client_name: Taco Bell
+  logo:
+    sys:
+      id: 2TO4Z9lhgcSYaEAC4wgCAG
+      created_at: !ruby/object:DateTime 2018-08-07 23:29:03.036000000 Z
+      updated_at: !ruby/object:DateTime 2018-08-07 23:29:03.036000000 Z
+    title: myDogg
+    description: Snoop Dizzle
+    url: "//images.ctfassets.net/ga9th4joj3g3/2TO4Z9lhgcSYaEAC4wgCAG/999c726b36c9085400f062110c7384f2/myDogg.jpg"
+  project_name: Snoop like T-A-C-O-double Bell

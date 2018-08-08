@@ -1,0 +1,13 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
+{%- for item in site.data.contentful.spaces.example.caseStudy -%}
+  Client Name: {{item.client_name}}
+  <br />
+  Client Description: {{item.project_name}}
+  <img src="{{item.logo.url}}" alt="{{item.logo.description}}">
+{%- endfor -%}
